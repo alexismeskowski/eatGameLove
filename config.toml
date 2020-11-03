@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "http://www.eatgamelove.com/"
 languageCode = "en"                                   # website language
 defaultContentLanguage = "en"                         # [en, zh, ...] determines which i18n file to use
 title = "Eat, Game, Love"                          # website title
