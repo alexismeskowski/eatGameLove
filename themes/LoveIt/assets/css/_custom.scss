@@ -2,3 +2,33 @@
 // Custom style
 // ==============================
 // You can override the variables in _variables.scss to customize the style
+body > div > nav.navbar {
+  background-color: #CEF9F2;
+}
+
+body > div > main > div > div > div > div.home-avatar > a > img {
+  box-shadow: 0 0 0 0.3618em #52b8ff !important;
+}
+
+h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
+  content: unset !important;
+}
+
+#tp-6bb3c23d213aa709c478f5845df48983 {
+  color: #fe7f2d;
+}
+
+#about_me_1 {
+  border: 6px solid #52b8ff;
+  border-radius: 20px;
+}
+
+#about_me_2 {
+  border: 6px solid #fe7f2d;
+  border-radius: 20px;
+}
+
+#about_me_3 {
+  border: 6px solid #655A7C;
+  border-radius: 20px;
+}

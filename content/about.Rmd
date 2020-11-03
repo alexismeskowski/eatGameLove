@@ -4,15 +4,16 @@ output: github_document
 
 # About Us
 
-## <u> Hello friends, we are Kyle and Lexi! </u>
+### Hello friends, we are Kyle and Lexi!
 
 <!-- Row Start -->
-:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
 
 <!-- Column 1 Start -->
 ::: {}
 
-![](../images/kyle_and_lexi_avatar.jpg){width=50%} 
+<img id="about_me_1" src="../images/kyle_and_lexi_avatar.jpg" width=70%/>
+
 <!-- Column 1 End -->
 :::
 
@@ -24,18 +25,16 @@ Just a couple of vegan gamers from the Midwest trying to live sustainably and he
 <!-- Column 2 End -->
 :::
 
-<br>
-
 <!-- Row End -->
 ::::
 
-### <u> More about Kyle: </u> ###
+### More about Kyle:
 
-:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
 
 ::: {}
 
-![](../images/Kyle derp with the meteorite.jpg){width=50%}
+<img id="about_me_2" src="../images/Kyle derp with the meteorite.jpg" width=70%/>
 
 :::
 
@@ -45,23 +44,21 @@ A giant dummy that likes coding and who incidentally helped build the world’s 
 
 :::
 
-<br>
-
 ::::
 
-### <u> More about Lexi: </u> ###
+### More about Lexi:
 
-:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
 
 ::: {}
 
-![](../images/Lexi derp on the steps.jpg){width=50%}
+<img id="about_me_3" src="../images/Lexi derp on the steps.jpg" width=70%/>
 
 :::
 
 ::: {}
 
-An actual toilet that is bad at video games but tries her best. Graduated with a degree in Community Health from IUPUI and is a Certified Health Education Specialist. Interested in sexual and mental health education, sustainability, and thrifting. Enjoys cooking, JJBA, playing Smite (feeding on Discordia every night), and a green tea latte. 
+An actual toilet that is bad at video games and coding but tries her best. Graduated with a degree in Community Health from IUPUI and is a Certified Health Education Specialist. Interested in sexual and mental health education, sustainability, and thrifting. Enjoys cooking, JJBA, playing Smite (feeding on Discordia every night), and a green tea latte. 
 
 :::
 
