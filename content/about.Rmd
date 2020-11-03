@@ -1,0 +1,68 @@
+---
+output: github_document
+---
+
+# About Us
+
+## <u> Hello friends, we are Kyle and Lexi! </u>
+
+<!-- Row Start -->
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+
+<!-- Column 1 Start -->
+::: {}
+
+![](../images/kyle_and_lexi_avatar.jpg){width=50%} 
+<!-- Column 1 End -->
+:::
+
+<!-- Column 2 Start -->
+::: {}
+
+Just a couple of vegan gamers from the Midwest trying to live sustainably and healthy while helping others. We started this blog to share all of the things we are passionate about like vegan food, video games, sexual wellness, and more! We hope that by sharing a bit of our everyday life we can encourage others to make more informed and healthy decisions, for themselves and our planet.
+
+<!-- Column 2 End -->
+:::
+
+<br>
+
+<!-- Row End -->
+::::
+
+### <u> More about Kyle: </u> ###
+
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+
+::: {}
+
+![](../images/Kyle derp with the meteorite.jpg){width=50%}
+
+:::
+
+::: {}
+
+A giant dummy that likes coding and who incidentally helped build the world’s largest calzone. Graduated with degrees in both Health Data Science and Informatics from IUPUI. Interested in machine learning, the coding language R, and open-source software. Enjoys working on new projects, One Piece, Limoncello LaCroix, and black coffee.
+
+:::
+
+<br>
+
+::::
+
+### <u> More about Lexi: </u> ###
+
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+
+::: {}
+
+![](../images/Lexi derp on the steps.jpg){width=50%}
+
+:::
+
+::: {}
+
+An actual toilet that is bad at video games but tries her best. Graduated with a degree in Community Health from IUPUI and is a Certified Health Education Specialist. Interested in sexual and mental health education, sustainability, and thrifting. Enjoys cooking, JJBA, playing Smite (feeding on Discordia every night), and a green tea latte. 
+
+:::
+
+::::
