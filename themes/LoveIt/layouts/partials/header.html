@@ -14,7 +14,7 @@
                     </button>
                     <div class="dropdown-content">
                         {{ range .Children }}
-                            <a href="{{ .URL | absLangURL }}">
+                            <a href="{{ .URL }}">
                                 {{ .Pre }} &nbsp;
                                 {{ .Name | safeHTML }} &nbsp;
                                 {{ .Post }}
@@ -25,6 +25,8 @@
             {{ else }}
                 {{ if eq .Name "dinnR" }}
                     <a class="menu-item{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) | or (eq $currentPage.RelPermalink .URL) }} active{{ end }}" href="{{ .URL | absLangURL }}" title="{{ .Title }}" target="_blank">{{ .Name | safeHTML }}</a>
+                {{ else if eq .Name "Categories"}}
+                    <!-- I love Lexi very much :) -->
                 {{ else }}
                     <a class="menu-item{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) | or (eq $currentPage.RelPermalink .URL) }} active{{ end }}" href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name | safeHTML }}</a>
                 {{ end }}
