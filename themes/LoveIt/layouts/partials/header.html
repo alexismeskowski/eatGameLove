@@ -8,7 +8,7 @@
             {{ range .Site.Menus.main }}
             {{ if .HasChildren }} 
                 <div class="dropdown">
-                    <button class="dropbtn" onclick="location.href='{{ .URL }}'">
+                    <button class="dropbtn" onclick="location.href='{{ .URL | absLangURL }}'">
                         {{ .Name | safeHTML }}
                         <i class="fa fa-caret-down"></i>
                     </button>
@@ -25,6 +25,8 @@
             {{ else }}
                 {{ if eq .Name "dinnR" }}
                     <a class="menu-item{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) | or (eq $currentPage.RelPermalink .URL) }} active{{ end }}" href="{{ .URL | absLangURL }}" title="{{ .Title }}" target="_blank">{{ .Name | safeHTML }}</a>
+                {{ else if eq .Name "Categories"}}
+                    <!-- I love Lexi very much :) -->
                 {{ else }}
                     <a class="menu-item{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) | or (eq $currentPage.RelPermalink .URL) }} active{{ end }}" href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name | safeHTML }}</a>
                 {{ end }}

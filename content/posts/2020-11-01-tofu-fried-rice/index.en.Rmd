@@ -25,7 +25,6 @@ math: no
 And this is how I feel learning to code in order to bring you this recipe.
 ![A sad bunny crying](sad.jpg)
 
-
 Amount of servings: 4
 
 :::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}

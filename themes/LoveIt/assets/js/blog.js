@@ -287,4 +287,7 @@ jQuery(function($) {
         _Blog.typeit();
         _Blog.toc();
     });
+    
+    $(document).tooltip({show: null});
+    $( "body > div.wrapper > nav.navbar > div > div.navbar-menu > a:nth-child(3)" ).tooltip({ show: { effect: "blind", duration: 800 } });
 });
