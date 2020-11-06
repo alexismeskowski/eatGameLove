@@ -8,13 +8,13 @@
             {{ range .Site.Menus.main }}
             {{ if .HasChildren }} 
                 <div class="dropdown">
-                    <button class="dropbtn" onclick="location.href='{{ .URL }}'">
+                    <button class="dropbtn" onclick="location.href='{{ .URL | absLangURL }}'">
                         {{ .Name | safeHTML }}
                         <i class="fa fa-caret-down"></i>
                     </button>
                     <div class="dropdown-content">
                         {{ range .Children }}
-                            <a href="{{ .URL }}">
+                            <a href="{{ .URL | absLangURL }}">
                                 {{ .Pre }} &nbsp;
                                 {{ .Name | safeHTML }} &nbsp;
                                 {{ .Post }}

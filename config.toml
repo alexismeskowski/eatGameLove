@@ -34,20 +34,20 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.R"]
   [[menu.main]]
     identifier = "eat"
     name = "Eat"
-    url = "../categories/eat/"
+    url = "/categories/eat/"
     parent = "posts"
     pre = "<i class='fas fa-utensils'></i>"
     weight = 1
   #[[menu.main]]
   #  identifier = "game"
   #  name = "Game"
-  #  url = "/category/game"
+  #  url = "/categories/game"
   #  parent = "posts"
   #  weight = 2
   [[menu.main]]
     identifier = "love"
     name = "Love"
-    url = "category/love"
+    url = "/categories/love/"
     parent = "posts"
     pre = "<i class='fas fa-heart'></i>"
     weight = 3
