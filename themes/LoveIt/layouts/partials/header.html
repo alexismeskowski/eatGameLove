@@ -6,7 +6,29 @@
         <div class="navbar-menu">
             {{ $currentPage := . }}
             {{ range .Site.Menus.main }}
-                <a class="menu-item{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) | or (eq $currentPage.RelPermalink .URL) }} active{{ end }}" href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name | safeHTML }}</a>
+            {{ if .HasChildren }} 
+                <div class="dropdown">
+                    <button class="dropbtn" onclick="location.href='{{ .URL }}'">
+                        {{ .Name | safeHTML }}
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                        {{ range .Children }}
+                            <a href="{{ .URL }}">
+                                {{ .Pre }} &nbsp;
+                                {{ .Name | safeHTML }} &nbsp;
+                                {{ .Post }}
+                            </a>
+                        {{ end }}
+                    </div>
+                </div>
+            {{ else }}
+                {{ if eq .Name "dinnR" }}
+                    <a class="menu-item{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) | or (eq $currentPage.RelPermalink .URL) }} active{{ end }}" href="{{ .URL | absLangURL }}" title="{{ .Title }}" target="_blank">{{ .Name | safeHTML }}</a>
+                {{ else }}
+                    <a class="menu-item{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) | or (eq $currentPage.RelPermalink .URL) }} active{{ end }}" href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name | safeHTML }}</a>
+                {{ end }}
+            {{ end }}
             {{ end }}
             <a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a>
         </div>
