@@ -166,7 +166,7 @@ h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
   }
 }
 
-body > div.wrapper > nav.navbar > div > div.navbar-menu > div > div > a:nth-child(1) {
+body > div.wrapper > nav.navbar > div > div.navbar-menu > div > div > a:nth-child(-n+2) {
   border-bottom: 1px solid #655a7c;
 }
 /* End Navbar drop down */
