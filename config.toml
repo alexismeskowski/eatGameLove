@@ -23,7 +23,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.R"]
 
 [Permalinks]                                          #### Permalinks Info (https://gohugo.io/content-management/urls/#permalinks)
   posts = ":year/:month/:slug/"
-  talks = ":year/:slug/"
 
 [menu]                                                #### Menu Info
   [[menu.main]]
@@ -31,7 +30,28 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.R"]
     name = "Posts"
     url = "posts"
     weight = 1
-
+    
+  [[menu.main]]
+    identifier = "eat"
+    name = "Eat"
+    url = "../categories/eat/"
+    parent = "posts"
+    pre = "<i class='fas fa-utensils'></i>"
+    weight = 1
+  #[[menu.main]]
+  #  identifier = "game"
+  #  name = "Game"
+  #  url = "/category/game"
+  #  parent = "posts"
+  #  weight = 2
+  [[menu.main]]
+    identifier = "love"
+    name = "Love"
+    url = "category/love"
+    parent = "posts"
+    pre = "<i class='fas fa-heart'></i>"
+    weight = 3
+    
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
@@ -43,12 +63,20 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.R"]
     name = "Categories"
     url = "categories"
     weight = 3
+    
+  [[menu.main]]
+    identifier = "dinnR"
+    title = "Check out our meal planning app!"
+    target = true
+    name = "dinnR"
+    url = "https://koderkow.shinyapps.io/dinnR/"
+    weight = 4
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "about"
-    weight = 4
+    weight = 5
 
 
 [params]
