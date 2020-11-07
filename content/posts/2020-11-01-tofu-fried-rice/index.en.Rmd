@@ -100,4 +100,4 @@ Amount of servings: 4
 
 <br>
 
-![Kyle was very excited to show off the rice. We hope you enjoy! :)](Kyle showing off rice.png){align=center}
+![Kyle was very excited to show off the rice. We hope you enjoy! :)](Kyle showing off rice.png){}
