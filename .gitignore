@@ -5,3 +5,4 @@
 public/
 !**/.gitkeep
 **/exampleSite/
+.DS_Store
