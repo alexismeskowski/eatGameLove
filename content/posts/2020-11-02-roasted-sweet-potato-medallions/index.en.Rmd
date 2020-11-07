@@ -12,8 +12,8 @@ description: 'The best and easiest way to have spicy and savory sweet potatoes!'
 show_in_homepage: yes
 show_description: yes
 license: ''
-featured_image: ''
-featured_image_preview: ''
+featuredImage: ''
+featuredImagePreview: ''
 comment: yes
 math: no
 ---
