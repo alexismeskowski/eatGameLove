@@ -186,3 +186,15 @@ body > div.wrapper > nav.navbar > div > div.navbar-menu > div > div > a:nth-chil
   border-bottom: 1px solid #655a7c;
 }
 /* End Navbar drop down */
+
+// Logo
+#header-desktop > div > div.header-title > a > img {
+  position: absolute;
+  margin-top: -15px;
+  height: 90px;
+}
+
+// Class Caption
+.caption {
+  text-align: center;
+}
