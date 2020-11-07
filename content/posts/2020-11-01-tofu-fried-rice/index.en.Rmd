@@ -12,18 +12,17 @@ description: 'Our favorite recipe for easy and delicious fried rice!'
 show_in_homepage: yes
 show_description: yes
 license: ''
-featured_image: ''
-featured_image_preview: 'posts/2020-11-01-tofu-fried-rice/sad.jpg' 
+featured_image: '../../../images/Tofu Fried Rice Preview.png'
+featured_image_preview: 'images/Tofu Fried Rice Preview.png' 
 comment: yes
 math: no
 ---
 
+<br>
+
 ## Hello friends, this is how we make fried rice! c:
 
 <!-- featured_image_preview is 780x234 -->
-
-And this is how I feel learning to code in order to bring you this recipe.
-![A sad bunny crying](sad.jpg)
 
 Amount of servings: 4
 
@@ -40,7 +39,7 @@ Amount of servings: 4
 - .5 tsp cayenne pepper
 - 1 pinch pepper
 
-#### Everything Else
+#### Everything Else:
 
 - One block of firm or extra firm tofu
 - 1 cup uncooked brown rice
@@ -62,13 +61,19 @@ Amount of servings: 4
 
 1. Press tofu and drain
 2. Dice tofu into small cubes
-3. Combine tofu marinade in a small bowl and stir in tofu, allowing it to sit for at least 20 minutes
-4. While tofu marinades, cook 1 cup brown rice
+3. Combine tofu marinade in a small bowl and stir in the tofu, allowing it to sit for at least 20 minutes
+4. Turn on the instant pot, dump in the rice and one cup of water, and set to high pressure cook for 15 minutes, making sure you move the steam valve to closed.
 5. As the rice cooks, heat up a large frying pan or wok to medium heat with 2 tbsp vegan butter
 6. Dice onion and carrots and saute in heated pan until onions are translucent
-7. Mince garlic cloves and add to the wok
-8. Chop broccoli into bite-sized pieces and add to the wok
-9. 
+7. Pre-heat the air fryer to 375°
+8. Mince garlic cloves and add to the wok as the air-fryer pre-heats
+9. Dump tofu into the now hot air-fryer and set to cook for 15 minutes
+10. Chop broccoli into bite-sized pieces and add to the wok
+11. Continue to stir and cook vegetables while rice and tofu cooks
+12. Once the rice is cooked, allow it to sit and naturally release pressure for 5 minutes before turning the steam valve to open. Once the weight drops, the lid can be opened.
+13. Add the cooked rice and tofu to wok
+14. Finish with soy sauce, pepper, ginger, and lemon juice.
+15. Give everything one final stir to combine and serve
 
 :::
 
@@ -81,7 +86,13 @@ Amount of servings: 4
 ### Notes:
 
 - This can be made with any vegetables you have on hand especially the ones you need to get rid of
-- If you have an instant pot you can use this to cook the rice quickly while you work over the wok
-- Kyle and I buy a huge bag of carrots at Costco and chop it up all at once to store in the freezer. As we make meals like this one, we grab the already chopped frozen carrots and just throw them in the skillet, allowing the water to cook off them. 
-- The tofu can be baked in the oven but Kyle and I prefer to use our air-fryer to get it nice and crispy quickly
-- Any vegan oil can be used to make this, but Kyle and I prefer to use a vegan butter such as [Myoko's](https://miyokos.com/collections/vegan-butter){target="_blank"} or [Earth Balance](https://earthbalancenatural.com/spreads/original-buttery-spread){target="_blank"}.
+- If you have an instant pot you can use it to cook the rice quickly while you work over the wok, but [cooking it on the stove](https://www.loveandlemons.com/how-to-cook-brown-rice/#wprm-recipe-container-42121){target="_blank"} and allowing it to sit before starting the recipe will also work.
+- Kyle and I buy a huge bag of carrots at Costco and chop it up all at once to store in the freezer. As we make meals like this one, we grab the already chopped frozen carrots and just throw them in the skillet, allowing the water to cook off them before adding the other vegetables 
+- The tofu *can* be baked in the oven at **400° for 30 minutes**, but Kyle and I prefer to use our air-fryer to get it nice and crispy quickly
+- Any vegan oil can be used to make this, but Kyle and I prefer to use a vegan butter such as [Myoko's](https://miyokos.com/collections/vegan-butter){target="_blank"} or [Earth Balance](https://earthbalancenatural.com/spreads/original-buttery-spread){target="_blank"}
+
+<br>
+
+![](Kyle showing off rice.png)
+
+<center> Kyle was very excited to show off the rice. We hope you enjoy! :) <center>
