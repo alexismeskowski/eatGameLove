@@ -12,9 +12,9 @@ description: 'Easy and free things you can do to help our planet today'
 license: ''
 resources:
 - name: featured-image
-  src: 5-Ways-Reduce-Waste-Image-Preview.png
+  src: Reduce-Waste-Today-Preview.png
 - name: featured-image-preview
-  src: 5-Ways-Reduce-Waste-Image-Preview.png
+  src: Reduce-Waste-Today-Preview.png
 math:
   enable: false
 share:
