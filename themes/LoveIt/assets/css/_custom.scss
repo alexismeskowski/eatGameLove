@@ -192,6 +192,15 @@ body > div.wrapper > nav.navbar > div > div.navbar-menu > div > div > a:nth-chil
   position: absolute;
   margin-top: -15px;
   height: 90px;
+  margin-left: unset;
+  margin-right: unset;
+}
+
+#header-mobile > div > div.header-wrapper > div.header-title > a > img {
+  margin-top: -10px;
+  height: 75px;
+  margin-left: unset;
+  margin-right: unset;
 }
 
 // Class Caption
