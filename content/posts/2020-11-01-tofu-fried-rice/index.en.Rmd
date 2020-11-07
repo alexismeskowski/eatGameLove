@@ -12,10 +12,17 @@ description: 'Our favorite recipe for easy and delicious fried rice!'
 show_in_homepage: yes
 show_description: yes
 license: ''
-featuredImage: '../../../images/Tofu Fried Rice Preview.png'
-featuredImagePreview: 'images/Tofu Fried Rice Preview.png' 
-comment: yes
-math: no
+resources:
+- name: featured-image
+  src: Tofu-Fried-Rice-Preview.png
+- name: featured-image-preview
+  src: Tofu-Fried-Rice-Preview.png
+math:
+  enable: false
+share:
+  enable: true
+comment:
+  enable: true
 ---
 
 <br>

@@ -12,10 +12,17 @@ description: 'Easy and free things you can do to help our planet today'
 show_in_homepage: yes
 show_description: yes
 license: ''
-featuredImage: '../../../images/5 Ways Reduce Waste Image Preview.png'
-featuredImagePreview: 'images/5 Ways Reduce Waste Image Preview.png'
-comment: yes
-math: no
+resources:
+- name: featured-image
+  src: 5-Ways-Reduce-Waste-Image-Preview.png
+- name: featured-image-preview
+  src: 5-Ways-Reduce-Waste-Image-Preview.png
+math:
+  enable: false
+share:
+  enable: true
+comment:
+  enable: true
 ---
 
 <br>
@@ -30,6 +37,7 @@ According to the [Environmental Protection Agency](https://www.epa.gov/recycle/r
 
 
 ![](Use What You Have.png)
+
 Probably the most important thing you can do for the environment is to use what you already have! When I began to think more consciously, I constantly found reusable alternatives that I wanted to buy immediately. But realistically for my space, my wallet, and the planet, I needed to use what I had first and *then* buy the more environmentally sustainable choice. This could apply to working through your stash of beauty products, using the last of your environmentally harmful cleaning products, or using up all the single-use straws in the house.
 
 ### 2) Reuse Your Glass
@@ -44,15 +52,11 @@ Kyle and I made the decision to use mason jars for glasses a few years ago and w
 
 You most likely don't wash your jeans or bra every single time you wear them and this can apply to other items of clothing as well. Washing items more often and in heavy loads can increase water waste and shorten the life of your clothing. I used to come home and throw my clothes in the dirty bin without even thinking about if I could hang them up and wear them again. I now find that I can wear a shirt 2 or 3 times without washing depending on if I worked up a sweat while it was on. Not only will this tip help the environment, but it will save you from doing a ton of laundry all the time too!
 
-
-
 ### 4) Start Recycling Properly
 
 ![](Copy of Recyclables.png)
 
 Reduce your waste by knowing what you can and cannot actually throw in your recycling bin. Putting items that are dirty or don't belong can hinder and sometimes even ruin the recycling facilities process and machines. [Here](https://www.earthday.org/youre-doing-it-wrong-7-tips-to-recycle-better/) is an amazing post covering most of what you didn't know about how your recycling habits could be harmful, but the big idea is to clean your recyclables and pay attention to what your local recycling collection takes. Check with your city's website page to see what types of recyclables they accept and find out where you can recycle the types they don't such as plastic Amazon mailers and plastic packaging. Often times stores like Walmart, Home Depot, or other large chain stores will have boxes collecting the special plastic recyclables at their entrance, making it easy to drop off your stash when you visit  those stores. 
-
-
 
 ### 5) Do Your Reusables Research!
 

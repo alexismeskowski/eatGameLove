@@ -119,9 +119,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     #  Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = ""
+      logo = "https://i.imgur.com/5mmXLcK.png"
       # title name
-      name = "Eat Game Love"
+      name = ""
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -360,14 +360,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
       enable = true
       # Disqus comment config
       [params.page.comment.disqus]
-        # 
         enable = true
         # Disqus shortname to use Disqus in posts
         shortname = "eatgamelove-com"
       # Gitalk comment config
       [params.page.comment.gitalk]
-        # 
-        enable = true
+        enable = false
         owner = ""
         repo = ""
         clientId = ""
