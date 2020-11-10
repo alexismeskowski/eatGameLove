@@ -9,8 +9,6 @@ tags:
   - Tofu
 lastmod: '2020-11-01T21:20:42-06:00'
 description: 'Our favorite recipe for easy and delicious fried rice!'
-show_in_homepage: yes
-show_description: yes
 license: ''
 resources:
 - name: featured-image
