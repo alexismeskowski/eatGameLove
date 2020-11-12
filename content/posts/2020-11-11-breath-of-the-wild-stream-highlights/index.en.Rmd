@@ -2,8 +2,8 @@
 title: Breath of the Wild Stream Highlights
 author: Alexis Meskowski
 date: '2020-11-11'
-slug: []
-categories: []
+slug: [breath-of-the-wild-stream-highlights]
+categories: [Game]
 tags:
   - Nintendo Switch
   - Stream
@@ -11,18 +11,23 @@ tags:
   - breath of the wild
 subtitle: ''
 lastmod: '2020-11-11T22:14:55-06:00'
-authorLink: ''
-description: ''
-hiddenFromHomePage: no
-hiddenFromSearch: no
-featuredImage: ''
-featuredImagePreview: ''
-toc:
-  enable: yes
-math:
-  enable: no
-lightgallery: no
+description: 'The compiled highlights of BotW from our Twitch streams!'
 license: ''
+resources:
+- name: featured-image
+  src: BotW-preview.png
+- name: featured-image-preview
+  src: BotW-preview.png
+math:
+  enable: false
+share:
+  enable: true
+comment:
+  enable: true
 ---
 
-<!--more-->
+## Hello friends, here is the highlights of our Breath of the Wild playthrough!
+
+### Stream Highlight #1
+
+<iframe width="100%" height="400" src="https://www.youtube.com/watch?v=qhUAnu8ujIg&t=466s" frameborder="" allowfullscreen></iframe>
