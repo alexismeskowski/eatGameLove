@@ -10,7 +10,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name = "Posts"
+    name = "Posts "
     url = "posts"
     weight = 1
   [[menu.main]]
@@ -24,7 +24,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     identifier = "game"
     pre = "<i class='fas fa-gamepad'></i>"
     name = "Game"
-    url = "/categories/"
+    url = "/categories/game/"
     parent = "posts"
     weight = 2
   [[menu.main]]
