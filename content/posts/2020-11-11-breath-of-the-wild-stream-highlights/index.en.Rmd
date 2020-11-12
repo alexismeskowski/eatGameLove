@@ -30,4 +30,7 @@ comment:
 
 ### Stream Highlight #1
 
-<iframe width="100%" height="400" src="https://www.youtube.com/watch?v=qhUAnu8ujIg&t=466s" frameborder="" allowfullscreen></iframe>
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "qhUAnu8ujIg")
+```
+
