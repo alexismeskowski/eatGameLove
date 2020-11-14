@@ -28,6 +28,9 @@ comment:
 <!-- featured_image_preview is 780x234 -->
 
 
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "LFGipo1sChw")
+```
 
 
 Amount of servings: 2
