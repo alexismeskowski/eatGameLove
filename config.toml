@@ -471,10 +471,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
   #  Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = "UA-181867309-1"      # whether to anonymize IP
+      id = "G-CGLR94M3QF"      # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
     [params.analytics.fathom]
