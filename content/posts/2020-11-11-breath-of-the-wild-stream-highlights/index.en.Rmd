@@ -34,3 +34,8 @@ comment:
 blogdown::shortcode("youtube", "qhUAnu8ujIg")
 ```
 
+### Stream Highlight #2
+
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "yFkVfy4lxpQ")
+```
