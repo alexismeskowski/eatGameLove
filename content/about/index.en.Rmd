@@ -20,7 +20,7 @@ output: github_document
 <!-- Column 2 Start -->
 ::: {}
 
-A couple of vegan gamers from the Midwest trying to live sustainably, stay healthy, and help others. We started this blog to share all of the things we are passionate about, like vegan food, video games, sexual wellness, and more! We hope that by sharing a bit of our everyday life, we can encourage others to make more informed and healthy decisions, both for themselves and our planet.
+A couple of [flexitarian](https://en.wikipedia.org/wiki/Semi-vegetarianism){target="_blank"} gamers from the Midwest trying to live sustainably, stay healthy, and help others. We started this blog to share all of the things we are passionate about, like vegan food, video games, sexual wellness, and more! We hope that by sharing a bit of our everyday life, we can encourage others to make more informed and healthy decisions, both for themselves and our planet.
 
 <!-- Column 2 End -->
 :::
