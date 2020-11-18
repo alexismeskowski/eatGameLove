@@ -26,7 +26,7 @@ comment:
   enable: true
 ---
 
-## Hello friends, here is the highlights of our Breath of the Wild playthrough!
+### Hello friends, here are the highlights of our Breath of the Wild playthrough! If you would like to visit the entire playlist directly on our YouTube channel you can click [here](https://www.youtube.com/watch?v=qhUAnu8ujIg&list=PL2lN_Ghz6kcJJhTB5kfDO-uHnNE9lRMmw){target="_blank"} .Or if you just want to see our YouTube channel, you can click [here](https://www.youtube.com/channel/UCDbvOR7EeHhe4_7CFtgW4Bg){target="_blank"}
 
 ### Stream Highlight #1
 
