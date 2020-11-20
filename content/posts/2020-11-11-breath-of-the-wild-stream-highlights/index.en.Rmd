@@ -51,3 +51,9 @@ blogdown::shortcode("youtube", "yFkVfy4lxpQ")
 ```{r, echo=FALSE}
 blogdown::shortcode("youtube", "v8ZDP0pPZZ8")
 ```
+
+### Stream Highlight #4
+
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "1sk7su63VyI")
+```
