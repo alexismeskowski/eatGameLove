@@ -22,6 +22,7 @@ share:
   enable: true
 comment:
   enable: true
+draft: true
 ---
 ## Hello friends, this is what we ate for Thanksgiving this year!
 
