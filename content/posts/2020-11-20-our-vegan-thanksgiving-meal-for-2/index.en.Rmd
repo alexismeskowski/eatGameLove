@@ -13,9 +13,9 @@ show_in_homepage: yes
 show_description: yes
 resources:
 - name: featured-image
-  src: 
+  src: TGiving Blog Preview.png
 - name: featured-image-preview
-  src: 
+  src: TGiving Blog Preview.png
 math:
   enable: false
 share:
@@ -54,9 +54,9 @@ Amount of servings: 4
 ### <u>Ingredients</u>
 
 - Field Roast Celebration Roast
--  lbs of russet potatoes
+- 1.5 lbs of russet potatoes
 - 1 can of green beans
-- vegetable broth
+- 2.5 cups vegetable broth
 - 
 
 ::: 
