@@ -22,7 +22,7 @@ share:
   enable: true
 comment:
   enable: true
-draft: true
+draft: false
 ---
 
 <br>
@@ -39,6 +39,14 @@ blogdown::shortcode("youtube", "")
 <br>
 
 Kyle and I decided we were going to challenge ourselves to stay safe at home and make our own vegan thanksgiving meal. We did not come up with any of the recipes that we used, but we did modify them, so I will link the recipes below, and also list exactly what we used and did to make all 3 recipes very easily. 
+
+### We will also be streaming on Thanksgiving, making this exact recipe and sitting down to eat with our friends in chat
+
+![](We do be eating.png)
+
+## We will be live starting at 6PM CST at [twitch.tv/koderkow](https://www.twitch.tv/koderkow){target="_blank"}
+
+Come say hello and hang out with us or stop by and say hello in between your own festivities! :)
 
 ### Recipes:
 
@@ -115,9 +123,8 @@ Kyle and I decided we were going to challenge ourselves to stay safe at home and
 
 ::::
 
-<br>
-
 ---
+
 
 ### Notes:
 
