@@ -1,0 +1,52 @@
+---
+title: Quick Cookie Review
+author: Alexis Meskowski
+date: '2020-11-20'
+slug: quick-cookie-review
+categories:
+  - Eat
+tags:
+  - Review
+  - Protein
+  - Cookies
+  - Snack
+lastmod: '2020-11-02T12:20:35-06:00'
+description: 'We sat down to try and review some protein cookies!'
+show_in_homepage: yes
+show_description: yes
+resources:
+- name: featured-image
+  src: Cookie Blog Preview.png
+- name: featured-image-preview
+  src: Cookie Blog Preview.png
+math:
+  enable: false
+share:
+  enable: true
+comment:
+  enable: true
+---
+<br>
+
+## Hello friends! Kyle and I were hungry for some cookies so we tried these ones. 
+
+<br>
+
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "LSFGrbgru2M&t")
+```
+
+### We are not affiliated with either brand that we talked about and I’m really sorry for getting the name and company of the beer wrong twice in a row, I was all mixed up.
+
+- [Here](https://bcorporation.net/about-b-corps){target="_blank"} is information on what a B Certified Corporation is
+
+- [Here](https://www.newbelgium.com/beer/voodoo-ranger-ipa){target="_blank"} is a link to the drink we had.
+
+    - (pls don’t use this link if you aren’t 21+)
+
+- [Here](https://munkpack.com/product/munk-pack-protein-cookies/){target="_blank"} is the link to these cookies we tried.
+
+### We really liked the cookies and we would definitely buy them again if we come across them!
+
+
+
