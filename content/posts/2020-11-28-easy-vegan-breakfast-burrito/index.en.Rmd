@@ -1,0 +1,91 @@
+---
+title: Easy Vegan Breakfast Burrito
+author: Alexis Meskowski
+date: '2020-11-28'
+slug: [easy-vegan-breakfast-burrito]
+categories:
+  - Eat
+tags:
+  - Breakfast
+  - Tofu
+lastmod: '2020-11-28T00:41:16-06:00'
+description: 'Lexi fill this in plz <3'
+show_in_homepage: yes
+show_description: yes
+resources:
+- name: featured-image
+  src: TGiving Blog Preview.png
+- name: featured-image-preview
+  src: TGiving Blog Preview.png
+math:
+  enable: false
+share:
+  enable: true
+comment:
+  enable: true
+draft: true
+---
+
+<br>
+
+## Hello friends, here is one of our favorite vegan breakfast burrito recipes!
+
+<!-- featured_image_preview is 780x234 -->
+<br>
+
+```{r, echo=FALSE, eval=FALSE}
+blogdown::shortcode("youtube", "")
+```
+
+<br>
+
+Amount of servings: 2
+
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+
+::: {}
+
+### <u>Ingredients</u>
+
+- 2.0 tortillas
+- Beans or some meat replacement like Beefless Crumbles
+- 1.0 block of soft tofu
+- 1.5 ounces of plant-based milk (plain)
+- 1.0 onion
+- 1.0 bell pepper
+- 2.0 cloves of garlic
+- 1.0 tbsp taco seasoning
+- 1.0 pinch of salt
+- 1.0 pinch of pepper
+
+#### <u>Optional</u>
+
+- Crispy potatoes
+- Vegan shredded cheddar cheese
+- Vegan sour craem
+
+::: 
+
+::: {}
+
+### <u>Preparation</u> 
+
+1. Start a pan on medium heat and toss in a little olive oil
+1. Chop onions and garlic, then add to the pan and cook until slightly translucent
+1. We made some crispy potatoes in our air fryer so if you are doing that scrub and wash then chop and toss in some oil with your favorite spices. We let them go for 15 minutes at 400°F.
+1. Then ,add beans to the pan and saute that as well until cooked through
+1. Add in a block of soft tofu and mash with a potato masher, crumble with your hands, or chop up with your cooking utensil.
+1. Add taco seasoning and a splash of plant based milk and continue to stir a few more minutes until everything is incorporated into the “scramble”
+1. Place “scramble” contents in the tortilla and top with your favorite toppings including the crispy potatoes if you so choose
+1. Roll and enjoy :)
+
+
+:::
+
+::::
+
+<br>
+
+---
+
+### Notes:
