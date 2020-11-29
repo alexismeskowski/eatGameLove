@@ -32,14 +32,15 @@ comment:
   enable: true
 ---
 
-<!--more-->
 <br>
 
 ## Hello friends, Kyle and I had a lot of fun streaming this week
 
 We recently decided to start making weekly  highlights that will be uploaded every Saturday to the EatGameLove YouTube channel. This week included a mix of Breath of the Wild, some random switch games we played on Blackout Wednesday like Mario Party, Yoshi's Wooly World, Mario Maker, and also our Thanksgiving stream.
 
-If you'd like to catch our stream like you can go to [twitch.tv/theeatgamelove](twtich.tv/theeatgamelove){target="_blank"} and follow us. We stream every Monday, Wednesday, and Friday from 8-10 PM CST.
+If you'd like to catch our stream like you can go to [twitch.tv/theeatgamelove](https://www.twitch.tv/theeatgamelove){target="_blank"} and follow us. We stream every Monday, Wednesday, and Friday from 8-10 PM CST.
+
+<br>
 
 ```{r, echo=FALSE}
 blogdown::shortcode("youtube", "J_jiLUrSclI")
