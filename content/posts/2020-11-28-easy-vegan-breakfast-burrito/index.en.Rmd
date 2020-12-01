@@ -14,16 +14,16 @@ show_in_homepage: yes
 show_description: yes
 resources:
 - name: featured-image
-  src: 
+  src: tofu_burrito_blog_preview.png
 - name: featured-image-preview
-  src: 
+  src: tofu_burrito_blog_preview.png
 math:
   enable: false
 share:
   enable: true
 comment:
   enable: true
-draft: true
+draft: false
 ---
 
 <br>
@@ -32,7 +32,7 @@ draft: true
 
 We had a request to show how to cook with tofu, so we chose one of the easiest ways to use tofu, without even having to press it! 
 
-**We use mainly two types of tofu when we cook, the firmest (extra firm) and the softest () kinds.**
+**We use mainly two types of tofu when we cook, the firmest (extra firm) and the softest (soft) kinds.**
 
 **The firmer kind is good for:** 
 
@@ -54,8 +54,8 @@ If you'd like to make your tofu really tasty you can marinade it very easily lik
 
 <br>
 
-```{r, echo=FALSE, eval=FALSE}
-blogdown::shortcode("youtube", "")
+```{r, echo=FALSE, eval=TRUE}
+blogdown::shortcode("youtube", "NoSs3fusvi8")
 ```
 
 <br>
