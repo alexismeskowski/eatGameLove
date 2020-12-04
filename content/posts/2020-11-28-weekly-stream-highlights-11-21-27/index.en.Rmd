@@ -8,12 +8,8 @@ categories:
 tags:
   - breath of the wild
   - Nintendo Switch
-  - Playthrough
-  - Stream
-  - Thanksgiving
-  - Mario Party
-  - Mario Maker
-  - Yoshi's Wooly World
+  - stream
+
 subtitle: ''
 lastmod: '2020-11-28T21:56:10-06:00'
 description: 'Highlights from BotW, our Blackout Wednesday stream, and Thanksgiving!'
