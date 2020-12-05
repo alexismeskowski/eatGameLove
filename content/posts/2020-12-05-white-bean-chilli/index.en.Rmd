@@ -1,0 +1,99 @@
+---
+title: White Bean Chilli
+author: Alexis Meskowski
+date: '2020-12-05'
+slug: [white-bean-chilli]
+categories:
+  - Eat
+tags:
+  - Chilli
+subtitle: ''
+lastmod: '2020-12-05T13:50:39-06:00'
+description: ''
+show_in_homepage: yes
+show_description: yes
+resources:
+- name: featured-image
+  src: 
+- name: featured-image-preview
+  src: 
+math:
+  enable: false
+share:
+  enable: true
+comment:
+  enable: true
+draft: true
+---
+
+<!--more-->
+<br>
+
+## Hello friends, here is a vegan style of one of our most favorite chillis to make, white bean chilli!
+
+Original Recipe: https://www.pillsbury.com/recipes/creamy-white-chicken-chili/bb83f142-b7d4-48a0-bc5c-98641a203783
+
+We have changed this recipe quite a bin over the years. We have found that this recipe still tastes **AMAZING** when made without chicken.
+
+<br>
+
+```{r, echo=FALSE, eval=FALSE}
+blogdown::shortcode("youtube", "")
+```
+
+<br>
+
+Amount of servings: 6
+
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+
+::: {}
+
+### <u>Ingredients</u>
+
+- 4.0 cups vegetable broth
+- 2.0 cans of northern beans
+  - *We went with a bean/lentil mix we are using up*
+- 2.0 medium sized potatoes
+- 1.0 medium onion
+- 3.0 cloves of garlic
+- 4.5 oz of green chillis
+- 1.5 tsp cumin
+- 2.0 cups dairy free pepper jack cheese
+- 0.75 cup dairy free sour scream
+- 1.0 handful of spinach
+- 1.0 pinch of salt
+- 1.0 pinch of pepper
+
+#### <u>Optional</u>
+
+- corn
+- avocado
+- what ever spices you have on hand!
+
+::: 
+
+::: {}
+
+### <u>Preparation</u> 
+
+1. Start a large pot on medium heat and toss in a little olive oil
+1. Chop the garlic and onion, then add to the pot
+1. Scrub and wash the potatoes. Proceed to chop them into 1/2 inch cubes, set aside
+1. Once the onions are translucent add the vegetable broth, beans, potatoes, corn, chiles, and all of the wanted spices. Turn the heat up to medium high to bring to a boil
+1. Once the pot is boiling turn the heat down and simmer for 20 minutes while occasionally sturring
+1. After 20 minutes begin to gradually add in the cheese while stirring
+1. Add in the spinach and sour cream
+1. Cover and let the spinach cook down, about 10 minutes
+
+:::
+
+::::
+
+<br>
+
+---
+
+### Notes:
+
+- Avocado can be added as a topping once you have scooped the chilli into a bowl

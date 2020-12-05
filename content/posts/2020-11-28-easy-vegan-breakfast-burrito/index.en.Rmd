@@ -9,7 +9,7 @@ tags:
   - Breakfast
   - Tofu
 lastmod: '2020-11-28T00:41:16-06:00'
-description: 'Lexi fill this in plz <3'
+description: 'Our take on simple tofu breakfast burritos!'
 show_in_homepage: yes
 show_description: yes
 resources:
