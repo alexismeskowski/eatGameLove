@@ -14,9 +14,9 @@ show_in_homepage: yes
 show_description: yes
 resources:
 - name: featured-image
-  src: 
+  src: white bean chili blog preview.png
 - name: featured-image-preview
-  src: 
+  src: white bean chili blog preview.png
 math:
   enable: false
 share:
