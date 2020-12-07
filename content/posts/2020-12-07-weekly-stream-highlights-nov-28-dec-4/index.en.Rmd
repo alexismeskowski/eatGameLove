@@ -15,9 +15,9 @@ show_in_homepage: yes
 show_description: yes
 resources:
 - name: featured-image
-  src: 
+  src: copy of weekly stream highlights 11_21-27 preview.png
 - name: featured-image-preview
-  src: 
+  src: copy of weekly stream highlights 11_21-27 preview.png
 math:
   enable: false
 share:
@@ -37,9 +37,6 @@ If you'd like to catch our stream like you can go to [twitch.tv/theeatgamelove](
 
 <br>
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, eval=FALSE}
 blogdown::shortcode("youtube", "")
 ```
-
-
-<!--more-->
