@@ -1,0 +1,44 @@
+---
+title: Weekly Stream Highlights Nov 28 - Dec 4
+author: Alexis Meskowski
+date: '2020-12-07'
+slug: []
+categories: []
+tags:
+  - breath of the wild
+  - Nintendo Switch
+  - Stream
+subtitle: ''
+lastmod: '2020-12-07T16:26:18-06:00'
+description: 'Highlights from BotW and a bit of dinner planning this week!'
+show_in_homepage: yes
+show_description: yes
+resources:
+- name: featured-image
+  src: 
+- name: featured-image-preview
+  src: 
+math:
+  enable: false
+share:
+  enable: true
+comment:
+  enable: true
+---
+
+<br>
+
+## Hello friends, Kyle and I played some more Breath of the Wild!
+
+We recently decided to start making weekly  highlights that will be uploaded every Saturday to the EatGameLove YouTube channel. This week we played a ton of Breath of the Wild and even have a sneak peek of our dinner planning Monday nights at 10:30 PM CST!
+
+If you'd like to catch our stream like you can go to [twitch.tv/theeatgamelove](https://www.twitch.tv/theeatgamelove){target="_blank"} and follow us. We stream every Monday, Wednesday, and Friday from 8-10 PM CST.
+
+<br>
+
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "")
+```
+
+
+<!--more-->
