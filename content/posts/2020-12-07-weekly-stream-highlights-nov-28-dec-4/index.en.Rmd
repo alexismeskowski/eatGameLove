@@ -24,6 +24,7 @@ share:
   enable: true
 comment:
   enable: true
+draft: true
 ---
 
 <br>
