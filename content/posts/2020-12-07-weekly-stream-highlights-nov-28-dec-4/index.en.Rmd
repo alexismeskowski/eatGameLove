@@ -37,6 +37,6 @@ If you'd like to catch our stream like you can go to [twitch.tv/theeatgamelove](
 
 <br>
 
-```{r, echo=FALSE, eval=FALSE}
+```{r, echo=FALSE}
 blogdown::shortcode("youtube", "Vk0k1Hqhe5Q")
 ```
