@@ -1,12 +1,12 @@
 ---
-title: White Bean Chilli
+title: White Bean Chili
 author: Kyle Harris
 date: '2020-12-12'
-slug: [white-bean-chilli]
+slug: [white-bean-chili]
 categories:
   - Eat
 tags:
-  - Chilli
+  - Chili
 subtitle: 'This simple white bean chili will take your taste buds to flavor town!'
 lastmod: '2020-12-12T17:45:00'
 description: ''
@@ -28,7 +28,7 @@ draft: false
 
 <br>
 
-## Hello friends, here is a vegan style of one of our most favorite chillis to make, white bean chilli!
+## Hello friends, here is a vegan style of one of our most favorite chilis to make, white bean chili!
 
 We have changed [this recipe](https://www.pillsbury.com/recipes/creamy-white-chicken-chili/bb83f142-b7d4-48a0-bc5c-98641a203783) quite a bit over the years. We have found that this recipe still tastes **AMAZING** when made without chicken.
 
@@ -54,7 +54,7 @@ Amount of servings: 6
 - 2.0 medium sized potatoes
 - 1.0 medium onion
 - 3.0 cloves of garlic
-- 4.5 oz of green chillis 
+- 4.5 oz of green chilis 
   - *We bought a huge jar at costco*
 - 1.5 tsp cumin
 - 2.0 cups dairy free pepper jack cheese
