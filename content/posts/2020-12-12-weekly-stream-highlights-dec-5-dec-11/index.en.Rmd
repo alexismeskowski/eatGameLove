@@ -1,0 +1,43 @@
+---
+title: Weekly Stream Highlights Dec 5 - Dec 11
+author: Kyle Harris
+date: '2020-12-12'
+slug: [weekly-stream-highlights-dec-5-dec-11]
+categories:
+  - Game
+tags:
+  - breath of the wild
+  - Nintendo Switch
+  - Stream
+subtitle: ''
+lastmod: '2020-12-12T22:08:25-06:00'
+description: 'Highlights from Mario 64, BotW, and a bit of dinner planning this week!'
+show_in_homepage: yes
+show_description: yes
+resources:
+- name: featured-image
+  src: Weekly_Stream_Highlights_Dec_5-11_Preview.png
+- name: featured-image-preview
+  src: Weekly_Stream_Highlights_Dec_5-11_Preview.png
+math:
+  enable: false
+share:
+  enable: true
+comment:
+  enable: true
+draft: false
+---
+
+<br>
+
+## Hello friends, Lexi and I played some Super Mario 64 and Breath of the Wild this week!
+
+This week we tried out the new Super Mario 3D All-Stars. Lexi has yet to play Super Mario 64 so she was able to try it out! We will definitely be playing through all 3 Mario titles in 3D All-Stars. We played BotW for the majority of this week as we inch even closer to finishing this game! We also have a snippet from our dinner planning session (Mondays 10:00 PM CST) where we use [our own app](https://koderkow.shinyapps.io/dinnR/){target="_blank"} to plan our meals
+
+If you'd like to catch our stream like you can go to [twitch.tv/theeatgamelove](https://www.twitch.tv/theeatgamelove){target="_blank"} and follow us. We stream every Monday, Wednesday, and Friday from 8-10 PM CST.
+
+<br>
+
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "yXcSnja5hag")
+```

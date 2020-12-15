@@ -1,14 +1,14 @@
 ---
-title: White Bean Chilli
-author: Alexis Meskowski
-date: '2020-12-05'
-slug: [white-bean-chilli]
+title: White Bean Chili
+author: Kyle Harris
+date: '2020-12-12'
+slug: [white-bean-chili]
 categories:
   - Eat
 tags:
-  - Chilli
-subtitle: ''
-lastmod: '2020-12-05T13:50:39-06:00'
+  - Chili
+subtitle: 'This simple white bean chili will take your taste buds to flavor town!'
+lastmod: '2020-12-12T17:45:00'
 description: ''
 show_in_homepage: yes
 show_description: yes
@@ -23,22 +23,19 @@ share:
   enable: true
 comment:
   enable: true
-draft: true
+draft: false
 ---
 
-<!--more-->
 <br>
 
-## Hello friends, here is a vegan style of one of our most favorite chillis to make, white bean chilli!
+## Hello friends, here is a vegan style of one of our most favorite chilis to make, white bean chili!
 
-Original Recipe: https://www.pillsbury.com/recipes/creamy-white-chicken-chili/bb83f142-b7d4-48a0-bc5c-98641a203783
-
-We have changed this recipe quite a bin over the years. We have found that this recipe still tastes **AMAZING** when made without chicken.
+We have changed [this recipe](https://www.pillsbury.com/recipes/creamy-white-chicken-chili/bb83f142-b7d4-48a0-bc5c-98641a203783){target="_blank"} quite a bit over the years. We have found that this recipe still tastes **AMAZING** when made without chicken.
 
 <br>
 
-```{r, echo=FALSE, eval=FALSE}
-blogdown::shortcode("youtube", "")
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "LrrCsJAgsHU")
 ```
 
 <br>
@@ -57,7 +54,7 @@ Amount of servings: 6
 - 2.0 medium sized potatoes
 - 1.0 medium onion
 - 3.0 cloves of garlic
-- 4.5 oz of green chillis 
+- 4.5 oz of green chilis 
   - *We bought a huge jar at costco*
 - 1.5 tsp cumin
 - 2.0 cups dairy free pepper jack cheese
@@ -97,4 +94,4 @@ Amount of servings: 6
 
 ### Notes:
 
-- Avocado can be added as a topping once you have scooped the chilli into a bowl
+- Avocado can be added as a topping once you have scooped the chili into a bowl
