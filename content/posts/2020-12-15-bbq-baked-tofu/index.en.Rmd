@@ -36,7 +36,7 @@ You can find the recipe [here](https://www.whereyougetyourprotein.com/bbq-tofu-w
 <br>
 
 ```{r, echo=FALSE}
-blogdown::shortcode("youtube", "LrrCsJAgsHU")
+blogdown::shortcode("youtube", "zkv0gX7SJFA")
 ```
 
 <br>
@@ -46,4 +46,5 @@ blogdown::shortcode("youtube", "LrrCsJAgsHU")
 
 ### Notes:
 
-- 
+- We used Sweet Baby Ray's Honey Barbecue sauce because that is our favorite
+- Topping with avocado really made this recipe for us and we can't stop making it
