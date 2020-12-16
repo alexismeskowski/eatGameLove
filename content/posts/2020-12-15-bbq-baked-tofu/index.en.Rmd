@@ -1,0 +1,49 @@
+---
+title: BBQ Baked Tofu
+author: Alexis Meskowski
+date: '2020-12-15'
+slug: []
+categories:
+  - Eat
+tags:
+  - Tofu
+  - Protein
+subtitle: ''
+lastmod: '2020-12-15T18:24:08-06:00'
+description: ''
+show_in_homepage: yes
+show_description: yes
+resources:
+- name: featured-image
+  src: white bean chili blog preview.png
+- name: featured-image-preview
+  src: white bean chili blog preview.png
+math:
+  enable: false
+share:
+  enable: true
+comment:
+  enable: true
+draft: true
+---
+
+<br>
+
+## Hello friends, this recipe is one of our favorites from [Where You Get Your Protein](https://www.whereyougetyourprotein.com/){target="_blank"}!
+
+You can find the recipe [here](https://www.whereyougetyourprotein.com/bbq-tofu-with-caramelized-onions/){target="_blank"}. We made this for the first time a few weeks ago and it has quickly become one of our favorite recipes. Because we didn't modify the recipe at all, we thought it would be a dick move to put the recipe on our website. Please go check out [Marlena's blog](https://www.whereyougetyourprotein.com/bbq-tofu-with-caramelized-onions/){target="_blank"} for it!
+
+<br>
+
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "LrrCsJAgsHU")
+```
+
+<br>
+
+
+---
+
+### Notes:
+
+- 
