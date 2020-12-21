@@ -28,9 +28,9 @@ draft: true
 
 <br>
 
-## Hello friends, this recipe is one of our favorites from [](){target="_blank"}!
+## Hello friends, this recipe is one of our favorites from [Choosing Chia](https://choosingchia.com/){target="_blank"}!
 
-You can find the recipe [here]){target="_blank"}.  Because we didn't modify the recipe at all, we thought it would be a dick move to put the recipe on our website. Please go check out [){target="_blank"} for it!
+You can find the recipe [here](https://choosingchia.com/vegan-buffalo-cauliflower-mac-and-cheese/){target="_blank"}.  Because we didn't modify the recipe at all, we thought it would be a dick move to put the recipe on our website. Please go check out [Choosing Chia](https://choosingchia.com/vegan-buffalo-cauliflower-mac-and-cheese/){target="_blank"} for it!
 
 <br>
 
