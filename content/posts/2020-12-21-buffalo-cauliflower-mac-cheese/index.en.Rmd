@@ -40,6 +40,10 @@ blogdown::shortcode("youtube", "5DhQzkyCuBM")
 
 <br>
 
+Our friend **Stepford Husband** gave us a tip that you can use a ladle full of the leftover pasta water to thicken up the cheese sauce instead of adding cornstarch! So cool :)
+
+Here is the link to his website you should go check him out because he is awesome:
+https://stepfordhusband.com/
 
 ---
 
