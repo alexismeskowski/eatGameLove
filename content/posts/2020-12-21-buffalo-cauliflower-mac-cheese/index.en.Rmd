@@ -14,9 +14,9 @@ show_in_homepage: yes
 show_description: yes
 resources:
 - name: featured-image
-  src: 
+  src: Buffalo Mac Blog Preview.png
 - name: featured-image-preview
-  src: 
+  src: Buffalo Mac Blog Preview.png
 math:
   enable: false
 share:
@@ -35,7 +35,7 @@ You can find the recipe [here](https://choosingchia.com/vegan-buffalo-cauliflowe
 <br>
 
 ```{r, echo=FALSE}
-blogdown::shortcode("youtube", "")
+blogdown::shortcode("youtube", "5DhQzkyCuBM")
 ```
 
 <br>
@@ -45,5 +45,7 @@ blogdown::shortcode("youtube", "")
 
 ### Notes:
 
-- 
+- We add 1 tbsp of cornstarch to the chesse sauce when it's in the pan to make it thicker
+- We add more nutritional yeast than Choosing Chia because we are cheesy fiends
+- This recipe is included in the [dinnR app](https://koderkow.shinyapps.io/dinnR/){target="_blank"} that we made 
 
