@@ -1,0 +1,41 @@
+---
+title: Weekly Highlights Dec 12th - 25th
+author: Alexis Meskowski
+date: '2020-12-26'
+slug: []
+categories:
+  - Game
+tags: []
+subtitle: ''
+lastmod: '2021-01-04T16:39:38-06:00'
+description: ''
+show_in_homepage: yes
+show_description: yes
+resources:
+- name: featured-image
+  src: stream highlights 11 blog preview.png
+- name: featured-image-preview
+  src: stream highlights 11 blog preview.png
+math:
+  enable: false
+share:
+  enable: true
+comment:
+  enable: true
+draft: false
+---
+
+<br>
+
+## Hello friends, here is two weeks worth of highlights because I forgot a week :)
+
+Kyle and I played some Breath of the Wild and Wizard101! Enjoy us goofing around.
+
+<br>
+
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "WoFtZE6MCfI")
+```
+
+<br>
+

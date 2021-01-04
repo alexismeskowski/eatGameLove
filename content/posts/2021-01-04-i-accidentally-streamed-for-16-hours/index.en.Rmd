@@ -1,0 +1,42 @@
+---
+title: I Accidentally Streamed for 16 Hours
+author: Alexis Meskowski
+date: '2021-01-04'
+slug: []
+categories:
+  - Game
+tags:
+  - Stream
+subtitle: ''
+lastmod: '2021-01-04T17:01:12-06:00'
+description: ''
+show_in_homepage: yes
+show_description: yes
+resources:
+- name: featured-image
+  src: stream highlights 12 blog preview.png
+- name: featured-image-preview
+  src: stream highlights 12 blog preview.png
+math:
+  enable: false
+share:
+  enable: true
+comment:
+  enable: true
+draft: false
+---
+
+<br>
+
+## Hello friends, I accidentally streamed for 16 hours a few weeks ago! :)
+
+Kyle and I started out streaming Breath of the Wild at 8PM and I ended playing Wizard 101 at 12:30PM the next day. Here is some of the best parts of me by playing Wizard 101 on stream alone. 
+
+<br>
+
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "WsbKlPyMe7Y")
+```
+
+<br>
+
