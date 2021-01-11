@@ -1,0 +1,50 @@
+---
+title: Weekly Stream Highlights Jan 2 - 8
+author: Alexis Meskowski
+date: '2021-01-10'
+slug: []
+categories:
+  - Game
+tags:
+  - Stream
+subtitle: ''
+lastmod: '2021-01-10T17:45:21-06:00'
+description: ''
+show_in_homepage: yes
+show_description: yes
+resources:
+- name: featured-image
+  src: stream highlights 14 blog preview.png
+- name: featured-image-preview
+  src: stream highlights 14 blog preview.png
+math:
+  enable: false
+share:
+  enable: true
+comment:
+  enable: true
+draft: false
+---
+
+<br>
+
+## Hello friends, we played Animal Crossing and Guild Wars 2 with our friends this week :)
+
+### Go follow our friends Stepford Husband and Robby the Insane on their channels!
+
+**Stepford Husband** does both cooking and gaming streams. He likes to play all types of games but especially Dead By Daylight, Phasmophobia, and Fall Guys. And he is actually starting Animal Crossing and eating 100 chicken wings this Saturday January 16th. Follow him here:
+https://twitch.tv/stepfordhusband
+
+**Robby the Insane** has just started streaming and is on the road to affiliate! He is hilarious and can often be seen playing Guild Wars 2 with Kyle and I. Follow him here: 
+https://twitch.tv/robbytheinsane
+
+### Enjoy us goofing around all week :D
+
+<br>
+
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "Oc_BnsrsTr8")
+```
+
+<br>
+
