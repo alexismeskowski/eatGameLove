@@ -1,24 +1,24 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
-author: Alexis Meskowski
+author: "Alexis Meskowski"
 date: {{ .Date }}
 description: ''
 show_in_homepage: yes
 show_description: yes
 resources:
 - name: featured-image
-  src: stream highlights {ENTER NUMBER} blog preview.png
+  src: ""
 - name: featured-image-preview
-  src: stream highlights {ENTER NUMBER} blog preview.png
+  src: ""
 math:
   enable: false
 share:
   enable: true
 comment:
   enable: true
-draft: false
 ---
 
+<!-- draft: true -->
 <!-- Featured Image: 780x234 -->
 <!-- Links: [](){target="_blank"} -->
 
