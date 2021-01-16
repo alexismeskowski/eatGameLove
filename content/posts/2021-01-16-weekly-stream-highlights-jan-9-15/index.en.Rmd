@@ -1,0 +1,48 @@
+---
+title: Weekly Stream Highlights Jan 9 - 15
+author: Kyle Harris
+date: '2021-01-16'
+slug: []
+categories: []
+tags: []
+description: ''
+show_in_homepage: yes
+show_description: yes
+resources:
+  name: featured-image
+  src: ''
+  name: featured-image-preview
+  src: ''
+math:
+  enable: no
+share:
+  enable: yes
+comment:
+  enable: yes
+draft: true
+---
+
+<!-- draft: true -->
+<!-- Featured Image: 780x234 -->
+<!-- Links: [](){target="_blank"} -->
+
+<br>
+
+## Hello friends, we started Lexi's nostalgic game this week! Super Mario Sunshine! :)
+
+This week we streamed one day due to everything happening in the US recently. To everyone reading this, be sure you are taking time to take care of yourself! The one night we had the opportunity to stream was AMAZING! Lexi shared a nostalgic game with me. We picked some highlights that showcase our first playthrough. We will definitely be playing this game more on stream. The stream references me doing an impersonation of our friend Koceila ([BelaidKL on twitch](https://www.twitch.tv/belaidkl){target="_blank"}). Looking back this was a low-tier attempt and Lexi pointed out Koceila has quite the opposite personality LOL!
+
+At the end of the week we got to celebrate with [StepfordHushand](https://www.twitch.tv/stepfordhusband){target="_blank"} for his 100 follower celebration stream! He tackled consuming 100 wings! Lexi and I contributed 20 wings! Other members stepped in to help as well! I believe StepfordHusband ate around 60 wings, so next time you see him make sure hes doing okay.
+
+### Friends
+
+- BelaidKL: https://www.twitch.tv/belaidkl
+- StepfordHushand: https://www.twitch.tv/stepfordhusband
+
+<br>
+
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "")
+```
+
+<br>
