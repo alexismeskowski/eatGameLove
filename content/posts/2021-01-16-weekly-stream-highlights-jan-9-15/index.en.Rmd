@@ -3,23 +3,27 @@ title: Weekly Stream Highlights Jan 9 - 15
 author: Kyle Harris
 date: '2021-01-16'
 slug: []
-categories: []
-tags: []
+categories:
+  - Game
+tags:
+  - Stream
+subtitle: ''
+lastmod: '2021-01-16T11:47:21-06:00'
 description: ''
 show_in_homepage: yes
 show_description: yes
 resources:
-  name: featured-image
-  src: ''
-  name: featured-image-preview
-  src: ''
+- name: featured-image
+  src: Weekly 15 Blog Preview.png
+- name: featured-image-preview
+  src: Weekly 15 Blog Preview.png
 math:
   enable: no
 share:
   enable: yes
 comment:
   enable: yes
-draft: true
+draft: false
 ---
 
 <!-- draft: true -->
@@ -38,11 +42,12 @@ At the end of the week we got to celebrate with [StepfordHushand](https://www.tw
 
 - BelaidKL: https://www.twitch.tv/belaidkl
 - StepfordHushand: https://www.twitch.tv/stepfordhusband
+- RobbytheInsane: https://www.twitch.tv/robbytheinsane
 
 <br>
 
 ```{r, echo=FALSE}
-blogdown::shortcode("youtube", "")
+blogdown::shortcode("youtube", "N9ihVbkDi2k")
 ```
 
 <br>
