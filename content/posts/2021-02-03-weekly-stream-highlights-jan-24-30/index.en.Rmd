@@ -1,0 +1,43 @@
+---
+title: Weekly Stream Highlights Jan 24 - 30
+author: Alexis Meskowski
+date: '2021-02-03'
+slug: []
+categories:
+  - Game
+tags:
+  - Stream
+description: ''
+show_in_homepage: yes
+show_description: yes
+resources:
+- name: featured-image
+  src: 'weekly 18 blog preview.png'
+- name: featured-image-preview
+  src: 'weekly 18 blog preview.png'
+math:
+  enable: no
+share:
+  enable: yes
+comment:
+  enable: yes
+draft: true
+---
+
+<!-- draft: true -->
+<!-- Featured Image: 780x234 -->
+<!-- Links: [](){target="_blank"} -->
+
+<br>
+
+## Hello friends, we had a lot of fun this week :)
+
+We started off the week cooking one our favorite recipes: [BBQ Tofu w/ Onions](https://www.eatgamelove.com/2020-12-15-bbq-baked-tofu/){target="_blank"} and we almost burned our kitchen by leaving a pizza box in the preheating oven... Then we played some more Super Mario Sunshine, our friends started a bit war, and I ugly cried so thank you to all the friends that showed us love on Wednesday night. <3 We finished off the week by playing Stardew Valley with my little brother Josh and ended with Kyle and I dancing together at the Flower Dance, so it was a pretty fun week. :)
+
+<br>
+
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "")
+```
+
+<br>
