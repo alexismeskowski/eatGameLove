@@ -44,4 +44,4 @@ blogdown::shortcode("youtube", "")
 
 ### Finished layout:
 
-
+![]()

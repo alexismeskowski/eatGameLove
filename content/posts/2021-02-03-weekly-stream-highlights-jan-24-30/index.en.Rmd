@@ -21,7 +21,7 @@ share:
   enable: yes
 comment:
   enable: yes
-draft: true
+draft: false
 ---
 
 <!-- draft: true -->
@@ -37,7 +37,7 @@ We started off the week cooking one our favorite recipes: [BBQ Tofu w/ Onions](h
 <br>
 
 ```{r, echo=FALSE}
-blogdown::shortcode("youtube", "")
+blogdown::shortcode("youtube", "XPmcC6vdpwY")
 ```
 
 <br>
