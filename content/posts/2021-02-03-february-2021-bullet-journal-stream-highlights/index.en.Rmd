@@ -21,7 +21,7 @@ share:
   enable: yes
 comment:
   enable: yes
-draft: true
+draft: false
 ---
 
 <!-- draft: true -->
