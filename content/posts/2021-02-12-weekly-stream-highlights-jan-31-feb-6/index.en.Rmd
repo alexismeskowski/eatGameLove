@@ -1,0 +1,44 @@
+---
+title: Weekly Stream Highlights Jan 31 - Feb 6
+author: Alexis Meskowski
+date: '2021-02-12'
+slug: []
+categories:
+  - Game
+tags:
+  - Stream
+description: ''
+show_in_homepage: yes
+show_description: yes
+resources:
+- name: featured-image
+  src: 'Jan 31 - Feb 6 Highlights Blog Preview.png'
+- name: featured-image-preview
+  src: 'Jan 31 - Feb 6 Highlights Blog Preview.png'
+math:
+  enable: no
+share:
+  enable: yes
+comment:
+  enable: yes
+---
+
+<!-- draft: true -->
+<!-- Featured Image: 780x234 -->
+<!-- Links: [](){target="_blank"} -->
+
+<br>
+
+## Hello friends, I hope you had a good week :)
+
+This week we cooked Tofu Fried Rice on Monday, played some more Transistor on Wednesday, and got into a Co-Op farm with StepfordHusband on Friday! It was a really chill and fun week and I'm so glad we have such an amazing community we can goof around with. <3
+
+Follow Stepford Husband on Twitch [here](https://twitch.tv/stepfordhusband){target="_blank"} !!!!
+
+<br>
+
+```{r, echo=FALSE}
+blogdown::shortcode("youtube", "nUymDSf-ejE")
+```
+
+<br>

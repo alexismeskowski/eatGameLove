@@ -11,10 +11,10 @@ description: ''
 show_in_homepage: yes
 show_description: yes
 resources:
-- name: featured-image
-  src: 'weekly 18 blog preview.png'
-- name: featured-image-preview
-  src: 'weekly 18 blog preview.png'
+  name: featured-image
+  src: 'Weekly 18 Blog Preview.png'
+  name: featured-image-preview
+  src: 'Weekly 18 Blog Preview.png'
 math:
   enable: no
 share:
